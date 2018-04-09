@@ -1,0 +1,18 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	overflow: hidden;
+	background-color: #ff8b94;
+	width: 100vw;
+	height: 70px;
+	box-shadow: 0 6px 6px -6px #999999;
+}
+
+.logo {
+	margin-left: 50px;
+	width: 400px;
+	height: 75%;
+	cursor: pointer;
+}
