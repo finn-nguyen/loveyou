@@ -7,7 +7,8 @@ export default class Info extends React.Component {
 		return (
 			<div className='info-container'>
 				<div className='left'>
-				It does not matter how many years pass by. Our love will last forever. I love you.
+				It does not matter how many years pass by. Our love will last forever.
+				I love you, darling.
 				</div>
 				<div className='right'><Counter /></div>
 			</div>
